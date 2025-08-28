@@ -142,6 +142,7 @@ Final Video Decision: NOT ATTENTIVE (41% attentive frames)
 **Kartik Prajapati - karprajapati@algomau.ca**,
 **Krish Patel - krishkpatel@algomau.ca**,
 **Parth Sathiya - psathiya@algomau.ca**,
+**Prof. Rashid Hussain Khokhar - rashid.khokhar@algomau.ca**,
 
 ---
 
